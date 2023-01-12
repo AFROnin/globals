@@ -1,0 +1,24 @@
+{
+  "lang": [
+      {
+          "de": "Adapter",
+          "en": "Adapter",
+          "it": "Adattatore",
+          "pl": "Adapter",
+          "fr": "Adaptateur",
+          "sv": "Adapter",
+          "da": "Adapter",
+          "nl": "Adapter"
+      },
+      {
+          "de": "Akku",
+          "en": "Battery",
+          "it": "Batteria",
+          "pl": "Bateria",
+          "fr": "Batterie",
+          "sv": "Batteri",
+          "da": "Batteri",
+          "nl": "Batterij"
+      }
+    ]
+}
